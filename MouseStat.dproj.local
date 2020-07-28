@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.09.09 21:47:08.059.pas,C:\Users\ASD\Documents\RAD Studio\Projects\Unit1.pas=I:\Disk_D\CODING\Delphi_App\MouseStat\Unit1.pas</Transaction>
+    <Transaction>2016.09.09 21:47:08.059.dfm,C:\Users\ASD\Documents\RAD Studio\Projects\Unit1.dfm=I:\Disk_D\CODING\Delphi_App\MouseStat\Unit1.dfm</Transaction>
+    <Transaction>2016.09.09 21:47:11.898.dproj,C:\Users\ASD\Documents\RAD Studio\Projects\Project1.dproj=I:\Disk_D\CODING\Delphi_App\MouseStat\MouseStat.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
